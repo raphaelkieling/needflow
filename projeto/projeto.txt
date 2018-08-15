@@ -1,0 +1,11 @@
+resources:
+
+Estrela
+https://www.flaticon.com/free-icon/star_149765#term=star&page=1&position=13
+
+Palma
+https://www.flaticon.com/free-icon/clapping-hands_103856#term=clap&page=1&position=15
+
+Estrela Achieve
+https://www.flaticon.com/free-icon/lace_254068#term=star&page=1&position=37
+
